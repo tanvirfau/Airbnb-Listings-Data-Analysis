@@ -1,7 +1,9 @@
 # Airbnb Data Analysis Project
 
 This repository contains a Jupyter notebook from Google Colab that performs data analysis on Airbnb listings. The analysis includes data cleaning, exploratory data analysis (EDA), and insights based on business decisions. 
+
 ![airbnb-image](https://github.com/tanvirfau/Airbnb-Listings-Data-Analysis/blob/main/airbnb.jpg)
+
 ## Project Overview
 
 In this project, we aim to explore the relationship between various factors like listing price, room types, neighborhood distribution, and reviews over time. The data analyzed comes from Airbnb listings, and the primary goal is to extract actionable insights that can inform business decisions.
