@@ -33,5 +33,4 @@ Install them using pip:
 ```bash
 pip install pandas matplotlib seaborn numpy
 
-```
-ght
+[see full project](https://github.com/tanvirfau/Airbnb-Listings-Data-Analysis)
