@@ -6,7 +6,7 @@ This repository contains a Jupyter notebook from Google Colab that performs data
 
 ## Project Overview
 
-In this project, I aim to explore the relationship between various factors like listing price, room types, neighborhood distribution, and reviews over time. The data analyzed comes from Airbnb listings, and the primary goal is to extract actionable insights that can inform business decisions.
+In this project, I aim to explore the relationship between various factors like ´listing price´, ´room types´, ´neighborhood distribution´, and ´reviews over time´. The data analyzed comes from Airbnb listings, and the primary goal is to extract actionable insights that can inform business decisions.
 
 ### Key Questions Explored:
 1. **What is the distribution of listing prices?**
